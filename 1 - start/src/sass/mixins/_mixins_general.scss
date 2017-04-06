@@ -1,0 +1,11 @@
+//
+//-- General mixins and functions
+//
+
+@function em($pixels, $ref: 16) {
+	@return ($pixels / $ref) * 1em;
+}
+
+@function rem($pixels, $ref: 16) {
+	@return ($pixels / $ref) * 1rem;
+}
