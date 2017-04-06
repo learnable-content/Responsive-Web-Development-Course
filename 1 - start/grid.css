@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	max-width: 60em;
+	margin: 2em auto;
+	font-family: sans-serif;
+}
+
+.bg {
+	background: #EEE;
+	padding: 0.2em;
+	margin-bottom: 1em;
+}
