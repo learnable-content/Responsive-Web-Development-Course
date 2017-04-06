@@ -1,0 +1,84 @@
+//
+//-- Contact Me
+//
+
+.contact {
+	background: $color-base;
+	margin-bottom: 0;
+
+	.section__title, .section__intro-text {
+		color: #FFF;
+	}
+}
+
+.contact__wrapper {
+	max-width: em(978);
+	padding: em(40) 0;
+
+	@include tablet-port {
+		padding: em(75) 0;
+	}
+
+	@include wide {
+		padding: em(150) 0;
+	}
+}
+
+.contact-form {
+	font-size: em(14);
+
+	@include tablet-port {
+		font-size: em(16);
+	}
+
+	@include wide {
+		font-size: em(18);
+	}
+}
+
+.contact-form__container {
+	margin-bottom: 0.75em;
+}
+
+.contact-form__label {
+	display: block;
+	color: #FFF;
+	margin-bottom: 0.2em;
+}
+
+.contact-form__field {
+	display: block;
+	padding: 0.5em;
+	color: #4d4d4d;
+	border: 0;
+	background: #FFF;
+	width: 100%;
+	transition: background 0.2s ease;
+	
+	// remove Safari's rounded corners
+	border-radius: 0;
+	-webkit-appearance: none;
+
+	&:focus {
+		background: #FFC;
+	}
+}
+
+.contact-form__field--message {
+	height: 8em;
+	margin-bottom: 2em;
+}
+
+.contact-form__button {
+	font-weight: bold;
+	border: 0;
+	color: #FFF;
+	text-transform: uppercase;
+	background: linear-gradient(90deg, $color-gradient1, $color-gradient2);
+	padding: 1em 2em;
+	transition: transform 0.2s ease;
+
+	&:hover {
+		transform: scale(1.1);
+	}
+}

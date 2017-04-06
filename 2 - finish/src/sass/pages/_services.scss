@@ -1,0 +1,48 @@
+//
+//-- Services
+//
+
+.services__item {
+	margin-bottom: 2em;
+	text-align: center;
+	font-size: em(14);
+
+	@include tablet-port {
+		margin-bottom: 3em;
+		font-size: em(16);
+	}
+
+	@include wide {
+		margin-bottom: 4em;
+		font-size: em(18);
+	}
+}
+
+.services__item-icon {
+	font-size: em(45);
+	display: inline-block;
+	width: rem(115);
+	height: rem(115);
+	background: linear-gradient(45deg, $color-gradient1, $color-gradient2);
+	border-radius: 100%;
+	margin-bottom: 1.3rem;
+	position: relative;
+	color: #FFF;
+
+	.fa {
+		@include vertical-center;
+	}
+}
+
+.services__item-title {
+	font-size: em(25);
+	font-weight: bold;
+	margin-bottom: 1.3rem;
+	text-transform: uppercase;
+	color: #4d4d4d;
+}
+
+.services__item-description {
+	color: #494949;
+	line-height: 1.9;
+}

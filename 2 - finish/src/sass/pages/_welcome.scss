@@ -1,0 +1,60 @@
+//
+//-- Welcome
+//
+
+.welcome {
+	background: $color-base url(../images/welcome_background.jpg) no-repeat center center;
+	background-size: cover;
+	position: relative;
+	height: em(200);
+
+	@include tablet-port {
+		height: em(350);
+	}
+
+	@include wide {
+		height: em(600);
+	}
+
+	@include very-wide {
+		height: em(740);
+	}
+
+	@include retina {
+		background-image: url(../images/welcome_background@2x.jpg);
+	}
+}
+
+.welcome__title {
+	font-size: rem(48);
+	text-transform: uppercase;
+	font-weight: 300;
+	color: #FFF;
+	text-shadow: 2px 2px 2px rgba(0,0,0,0.75);
+	line-height: 1;
+	text-align: center;
+	
+	@include vertical-center;
+
+	@include tablet-port {
+		font-size: rem(72);
+	}
+
+	@include wide {
+		font-size: rem(118);
+	}
+}
+
+.welcome__title-complement {
+	font-size: rem(14);
+	display: block;
+	font-weight: 600;
+
+	@include tablet-port {
+		font-size: rem(24);
+	}
+
+	@include wide {
+		font-size: rem(36);
+	}
+}
