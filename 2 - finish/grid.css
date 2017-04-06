@@ -1,0 +1,96 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	max-width: 60em;
+	margin: 2em auto;
+	font-family: sans-serif;
+	overflow-x: hidden;
+}
+
+.bg {
+	background: #EEE;
+	padding: 0.2em;
+	margin-bottom: 1em;
+}
+
+.grid::before, .grid::after {
+	content: "";
+	display: table;
+}
+
+.grid::after {
+	clear: both;
+}
+
+.grid {
+	margin-left: -10px !important;
+	margin-right: -10px !important;
+}
+
+.grid-1,
+.grid-2,
+.grid-3,
+.grid-4,
+.grid-5,
+.grid-6,
+.grid-7,
+.grid-8,
+.grid-9,
+.grid-10,
+.grid-11,
+.grid-12
+{
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.grid-12 {
+	width: 100%;
+}
+
+.grid-11 {
+	width: calc(8.333333333333333% * 11);
+}
+
+.grid-10 {
+	width: calc(8.333333333333333% * 10);
+}
+
+.grid-9 {
+	width: calc(8.333333333333333% * 9);
+}
+
+.grid-8 {
+	width: calc(8.333333333333333% * 8);
+}
+
+.grid-7 {
+	width: calc(8.333333333333333% * 7);
+}
+
+.grid-6 {
+	width: calc(8.333333333333333% * 6);
+}
+
+.grid-5 {
+	width: calc(8.333333333333333% * 5);
+}
+
+.grid-4 {
+	width: calc(8.333333333333333% * 4);
+}
+
+.grid-3 {
+	width: calc(8.333333333333333% * 3);
+}
+
+.grid-2 {
+	width: calc(8.333333333333333% * 2);
+}
+
+.grid-1 {
+	width: calc(8.333333333333333% * 1);
+}
