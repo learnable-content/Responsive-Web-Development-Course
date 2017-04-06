@@ -1,0 +1,23 @@
+//
+//-- General sections
+//
+
+.section {
+	margin-bottom: 3em;
+}
+
+.section__title {
+	text-transform: uppercase;
+	color: $color-base;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 1.5rem;
+	font-size: em(50);
+}
+
+.section__intro-text {
+	color: #4d4d4d;
+	text-align: center;
+	font-size: em(18);
+	margin-bottom: 4rem;
+}
