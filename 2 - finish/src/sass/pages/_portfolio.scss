@@ -1,0 +1,35 @@
+//
+//-- Portfolio
+//
+
+.portfolio__nav {
+	text-align: left;
+	margin-bottom: 2em;
+}
+
+.portfolio__nav-item {
+	color: #4d4d4d;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: 600;
+	transition: color 0.2s ease;
+	display: block;
+	font-size: em(22);
+	margin-bottom: 1.25em;
+
+	&:hover, &.is-active {
+		color: $color-highlight;
+	}
+}
+
+.portfolio__item {
+	display: block;
+	margin-bottom: 2em;
+	text-decoration: none;
+	@include hover-border;
+
+	img {
+		max-width: none;
+		width: 100%;
+	}
+}
