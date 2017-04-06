@@ -1,0 +1,45 @@
+//
+//-- RWD mixins
+//
+
+@mixin phone-land {
+	@media (min-width: $very-small-width) {
+		@content;
+	}
+}
+
+@mixin tablet-port {
+	@media (min-width: $small-width) {
+		@content;
+	}
+}
+
+@mixin tablet-land {
+	@media (min-width: $medium-width) {
+		@content;
+	}
+}
+
+@mixin wide {
+	@media (min-width: $large-width) {
+		@content;
+	}
+}
+
+@mixin very-wide {
+	@media (min-width: $very-large-width) {
+		@content;
+	}
+}
+
+@mixin retina {
+	@media
+		only screen and (-webkit-min-device-pixel-ratio: 2),
+		only screen and (min--moz-device-pixel-ratio: 2),
+		only screen and (-o-min-device-pixel-ratio: 2/1),
+		only screen and (min-device-pixel-ratio: 2),
+		only screen and (min-resolution: 192dpi),
+		only screen and (min-resolution: 2dppx) {
+			@content;
+	}
+}

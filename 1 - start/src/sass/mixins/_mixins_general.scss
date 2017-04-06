@@ -1,0 +1,18 @@
+//
+//-- General mixins and functions
+//
+
+@function em($pixels, $ref: 16) {
+	@return ($pixels / $ref) * 1em;
+}
+
+@function rem($pixels, $ref: 16) {
+	@return ($pixels / $ref) * 1rem;
+}
+
+@mixin vertical-center {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
