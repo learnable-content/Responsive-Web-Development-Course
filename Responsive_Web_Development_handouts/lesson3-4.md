@@ -1,4 +1,4 @@
-![](Responsive_Web_Development_handouts/headings/3.4.png)
+![](headings/3.4.png)
 
 Let's create our project's file and folder structure.
 
