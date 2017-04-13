@@ -1,4 +1,4 @@
-![](Responsive_Web_Development_handouts/headings/3.2.png)
+![](headings/3.2.png)
 
 Let's learn how to install the software needed for an automated front end work flow for a website. We'll need to install two main tools: NPM, the Node.js package manager that comes with the Node.js server, and Gulp, the build tool that we'll be using throughout the course. First, head to [nodejs.org](http://nodejs.org) and download the install package for NodeJS. When installing on Windows be sure to add the main executable to the Windows path.
 
