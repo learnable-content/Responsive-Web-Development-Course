@@ -1,4 +1,4 @@
-![](Responsive_Web_Development_handouts/headings/7.8.png)
+![](headings/7.8.png)
 
 In this section, we'll finish the work on our project by fine-tuning the responsiveness of each element in the page.
 
