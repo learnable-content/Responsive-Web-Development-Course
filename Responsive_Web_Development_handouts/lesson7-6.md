@@ -1,4 +1,4 @@
-![](Responsive_Web_Development_handouts/headings/7.6.png)
+![](headings/7.6.png)
 
 In this section we are going to style the contact section of the page. 
 
