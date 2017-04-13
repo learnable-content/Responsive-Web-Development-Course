@@ -1,4 +1,4 @@
-![](Responsive_Web_Development_handouts/headings/4.3.png)
+![](headings/4.3.png)
 
 Now that we have the main structural elements in place, let's code the page content. There are five sections in total: Welcome, Services, Portfolio, Blog, and Contact.
 
