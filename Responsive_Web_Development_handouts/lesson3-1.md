@@ -1,4 +1,4 @@
-![](Responsive_Web_Development_handouts/headings/3.1.png)
+![](headings/3.1.png)
 
 In this lesson we're going to learn what is a **front end workflow** and how it makes developing websites easier. In the past few years, websites have become more and more complex. I can personally attest to this, as the majority of my work ten years ago consisted in developing simple five page websites.
 
