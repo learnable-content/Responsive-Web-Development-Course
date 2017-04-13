@@ -1,4 +1,4 @@
-![](Responsive_Web_Development_handouts/headings/6.1.png)
+![](headings/6.1.png)
 
 In this lesson we are going to talk about grids.
 
