@@ -1,4 +1,4 @@
-![](Responsive_Web_Development_handouts/headings/7.1.png)
+![](headings/7.1.png)
 
 Now it's time to start styling the website. We'll begin with the header and welcome areas of the page.
 
