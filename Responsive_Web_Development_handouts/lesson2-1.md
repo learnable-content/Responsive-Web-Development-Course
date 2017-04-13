@@ -1,4 +1,4 @@
-![](Responsive_Web_Development_handouts/headings/2.1.png)
+![](headings/2.1.png)
 
 In this lesson I'll walk you through the design, its features and how we will approach its coding. This is a design that has many common characteristics that you see in websites today, such a big font size, big photos, content in columns, and a one page website look.
 
