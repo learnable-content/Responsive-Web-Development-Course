@@ -1,4 +1,4 @@
-![](Responsive_Web_Development_handouts/headings/6.2.png)
+![](headings/6.2.png)
 
 Now that we have seen some concepts of how a grid is built, let's code our own solution based on these ideas.
 
