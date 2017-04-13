@@ -1,4 +1,4 @@
-![](Responsive_Web_Development_handouts/headings/4.2.png)
+![](headings/4.2.png)
 
 Let's start by coding the essential tags that will be the foundation for our website, as well as the header and footer areas of the page.
 
