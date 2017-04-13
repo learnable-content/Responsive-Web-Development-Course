@@ -1,4 +1,4 @@
-![](Responsive_Web_Development_handouts/headings/8.1.png)
+![](headings/8.1.png)
 
 We have completed what we've set out to do in this course. What next?
 
