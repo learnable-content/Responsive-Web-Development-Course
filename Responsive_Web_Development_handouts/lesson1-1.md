@@ -1,4 +1,4 @@
-![](Responsive_Web_Development_handouts/headings/1.1.png)
+![](headings/1.1.png)
 
 Welcome to **Responsive Web Development** course. I'm Guilherme Muller and I'm a web developer. This course was made for those people that are feeling a bit lost in this new front end development reality of preprocessors, build tools and task runners. I'll show you how to integrate your development skills with an automated workflow that makes our life easier.
 
