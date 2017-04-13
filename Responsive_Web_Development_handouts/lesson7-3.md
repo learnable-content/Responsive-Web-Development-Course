@@ -1,4 +1,4 @@
-![](Responsive_Web_Development_handouts/headings/7.3.png)
+![](headings/7.3.png)
 
 In this section we are going to style the services section of the page in addition to creating some general styles for all the sections of the website.
 
