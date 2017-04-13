@@ -1,4 +1,4 @@
-![](Responsive_Web_Development_handouts/headings/6.3.png)
+![](headings/6.3.png)
 
 Now, that we have grasped the grid concept and coded an example, it's time to convert it in to a mixin. Converting it in to a mixin will save us time and effort in the task to generate different grids for different responsive breakpoints. We combine this with our media query mixin to generate five variations of our grid.
 
