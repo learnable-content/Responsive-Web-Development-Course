@@ -1,4 +1,4 @@
-![](Responsive_Web_Development_handouts/headings/3.3.png)
+![](headings/3.3.png)
 
 Now that we have the main software installed, it's time to install the plugins that we'll be using with Gulp.
 
