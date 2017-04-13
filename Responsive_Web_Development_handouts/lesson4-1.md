@@ -1,4 +1,4 @@
-![](Responsive_Web_Development_handouts/headings/4.1.png)
+![](headings/4.1.png)
 
 We now have the Gulp workflow up and running and we are almost ready to begin coding the HTML of the website. Before we start however, I would like to take a moment and introduce you to the class name methodology that we use throughout the course. With increasing complexity and the need to organize front end development.
 
