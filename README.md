@@ -8,13 +8,13 @@ If you have developed a number of websites, especially medium to large ones, you
 
 The **BEM methodology**, created by Yandex aims to solve this problem and can be used not only for CSS class naming but for a file and folder structure for example. Let's see what it's all about and why we are going to use in in this course.
 
-![](images/4-1_bem.png)
+![](Responsive_Web_Development_handouts/images/4-1_bem.png)
 
 BEM stands for Block Element Modifier, which already describe the parts that compose the system. In BEM you name blocks, which are independent and reusable blocks of content. The blocks can contain elements which, no matter the HTML nesting, should be treated as the elements directly linked to the main block. The modifiers are, like the name says, classes that indicate that they're modifying the block or the elements. It's a simple but powerful system.
 
 A simple BEM structure for the same markup would look like this:
 
-![](images/4-1_bem_example.png)
+![](Responsive_Web_Development_handouts/images/4-1_bem_example.png)
 
 If you're not used to the BEM syntax, at first glance it may look verbose and ugly. And yes, I thought of that at first as well. But the benefits are much bigger than the aesthetics here. With BEM the relationship between each stack is much clear. You almost always style each element by selecting it just by it's classes. Maintaining CSS specificity and conflicts very low. One of the principles of BEM, is to encapsulate it and separate each block and it's styles from the other. Avoiding general styles that influence everything on the page.
 
