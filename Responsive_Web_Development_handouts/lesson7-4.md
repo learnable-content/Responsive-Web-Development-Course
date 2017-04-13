@@ -1,4 +1,4 @@
-![](Responsive_Web_Development_handouts/headings/7.4.png)
+![](headings/7.4.png)
 
 Now we are going to style the portfolio section of the page. 
 
