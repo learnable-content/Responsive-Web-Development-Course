@@ -1,4 +1,4 @@
-![](Responsive_Web_Development_handouts/headings/5.3.png)
+![](headings/5.3.png)
 
 Now we're going to finish our Sass base by applying some reset styles, setting up some helper classes, and by installing the Font Awesome and Open Sans fonts in our website. Let's begin with embedding of the fonts. The design uses the Open Sans font for all text.
 
