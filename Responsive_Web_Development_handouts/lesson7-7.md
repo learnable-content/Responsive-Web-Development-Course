@@ -1,4 +1,4 @@
-![](Responsive_Web_Development_handouts/headings/7.7.png)
+![](headings/7.7.png)
 
 In this section we are going to focus on the responsiveness of each element of the page. It will not be that difficult, as we have already planned for this since the start. As explained earlier, we are going to use a mobile first approach, even though we have been developing the large screen version of the page so far.
 
