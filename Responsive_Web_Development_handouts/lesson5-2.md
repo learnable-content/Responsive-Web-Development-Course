@@ -1,4 +1,4 @@
-![](Responsive_Web_Development_handouts/headings/5.2.png)
+![](headings/5.2.png)
 
 With the main structure done and files created, I'd like to show you some very simple functions and mixins that can help us better develop the CSS of the project. If you are not into programming, don't worry. Here we'll work mainly with CSS, but with a different wrapping.
 
