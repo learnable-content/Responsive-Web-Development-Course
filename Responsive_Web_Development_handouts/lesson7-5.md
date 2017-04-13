@@ -1,4 +1,4 @@
-![](Responsive_Web_Development_handouts/headings/7.5.png)
+![](headings/7.5.png)
 
 In this section, we are going to style the blog section of the page.
 
